@@ -3,8 +3,8 @@
 - 💻 Im currently working on projects related to:
   - 🏈 American Football
   - ⚽️ Football
-  - 🏌️‍♂️ Golf
-  - 🏉 Rugby
+ <!--- - 🏌️‍♂️ Golf
+  - 🏉 Rugby--->
 - 🌱 My main learning focus currently is Python and R.
   - 🧠 I'm also continuing to expand my knowledge of SQL, HTML, PHP, CSS and JavaScript through projects.
 - 🎓 I currently study MSc Data Analytcis at the University of Portsmouth.
