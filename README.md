@@ -12,5 +12,4 @@ matthewglen/matthewglen is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewglen&theme=tokyonight&layout=compact)<br>
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewglen&count_private=true&theme=tokyonight)
 
