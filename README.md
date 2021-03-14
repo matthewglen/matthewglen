@@ -1,14 +1,16 @@
-- 👋 Hi, I’m Matt.
-- 👀 I’m interested in data analytics, particularly in sport.
-- 💻 Im currently working on projects related to:
-  - 🏈 American Football
-  - ⚽️ Football
-- 🌱 My main learning focus currently is Python and R.
-  - 🧠 I'm also continuing to expand my knowledge of SQL, HTML, PHP, CSS and JavaScript through projects.
+👋 Hi, I’m Matt.
+- Strong interest in data analytics, particularly in sport.
+- Currently working on projects related to:
+  - 🏈 American Football (referee's)
+  - ⚽️ Football (enhancing findings from player tracking data)
+- My main learning focus currently is Python and R.
+  - Also use SQL, HTML, PHP, CSS and JavaScript through different projects.
 - 🎓 I currently study MSc Data Analytcis at the University of Portsmouth.
 
 <!---
 matthewglen/matthewglen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewglen&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewglen&theme=tokyonight&layout=compact)<br>
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewglen&count_private=true&theme=tokyonight)
+
